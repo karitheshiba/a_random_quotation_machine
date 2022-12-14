@@ -1,1 +1,1 @@
-## [Random Quote Generator](https://karitheshiba.github.io/random_quote_generator/)
+## [Random Quote Generator](https://github.com/karitheshiba/a_random_quotation_machine.git)
